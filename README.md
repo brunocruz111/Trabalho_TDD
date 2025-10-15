@@ -1,4 +1,4 @@
-# Gamification.Domain - TDD Exercise (Badges by Mission)
+# Gamification.Domain - TDD Exercicio (Badges por Missão)
 
 Aluno: Bruno Luis da Cruz 
 Curso: Ciência da Computação

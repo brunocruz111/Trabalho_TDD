@@ -1,5 +1,9 @@
 # Gamification.Domain - TDD Exercise (Badges by Mission)
 
+Aluno: Bruno Luis da Cruz 
+Curso: Ciência da Computação
+Disciplina: Programação Orientada a Objeto
+
 Este repositório contém uma implementação de domínio para concessão de badges (insígnias) por missão,
 seguindo o enunciado da atividade de TDD (C# / .NET 9).
 
